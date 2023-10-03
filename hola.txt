@@ -9,5 +9,3 @@ commit 2
 commit 3
 
 se modifico la nariz de julian
-
-se modifico el texto
