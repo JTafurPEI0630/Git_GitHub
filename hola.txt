@@ -10,8 +10,10 @@ commit 3
 
 se modifico la nariz de julian
 
+<<<<<<< HEAD
 rama
 commit rama 1
 
 
 prueba de merge 
+=======
